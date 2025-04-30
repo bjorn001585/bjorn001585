@@ -2,7 +2,7 @@
 class About extends Person {
   About(): super(
     name: "San Krayer",
-    age: Person.rangeAge(22, 23),
+    age: Person.rangeAge(23, 24),
     sex: "Male",
     special: "Fox",
     skills: [
